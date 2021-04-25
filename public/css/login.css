@@ -1,0 +1,106 @@
+.image-col {
+    background: #021345 !important;
+    width: 100%;
+    min-height: 100vh;
+    padding: 0 !important;
+}
+
+.login-figure {
+    margin: 0;
+    position: relative;
+    top: 15%;
+}
+
+.login-image {
+    width: 80%;
+}
+
+.login-text {
+    position: absolute;
+    color: #fff;
+    margin: 0 10% 0 10% !important;
+    top: 70%;
+    font-size: 14px;
+}
+
+.slogan {
+    font-size: 3rem;
+    display: block;
+    width: 100%;
+    margin-bottom: 0;
+    word-spacing: 8.5rem;
+}
+
+@media only screen and (min-width: 1400px) {
+    .slogan {
+        word-spacing: 17.8rem;
+    }
+}
+
+.app-name {
+    text-align: right;
+    font-size: 1.3rem;
+}
+
+
+
+.login-col {
+    padding: 0 !important;
+}
+
+.login-container{
+    position: absolute;
+    min-width: 70%;
+    left: 15%;
+    font: 15px 'Roboto', sans-serif;
+    color: #021345;
+}
+
+.input-container {
+    font-size: 1.2rem;
+}
+
+.input-container input {
+    border: 2px solid #021345;
+    border-radius: 0.5rem;
+}
+
+.login-btn {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    background-color: #021345;
+    border-radius: 0.3rem;
+}
+
+.form-check {
+    font-size: 0.8rem;
+    color: #021345;
+}
+
+.remember {
+    color: #021345;
+    font-size: 0.8rem;
+    float: right;
+    padding-left: 18%;
+    padding-right: 0 !important;
+}
+ 
+.logo {
+    position: relative;
+    width: 30%;
+    padding-top: 45%;
+    left: 4%;
+    color: #021345;
+}
+
+.logo-name {
+    position: absolute;
+    top: 27%;
+    left: 32%;
+}
+
+.logoName {
+    position: absolute;
+    top: 32%;
+    left: 61%;
+}
